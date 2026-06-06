@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "frogger.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -68,7 +68,9 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "frogger.html": {
