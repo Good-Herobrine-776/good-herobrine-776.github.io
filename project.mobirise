@@ -68,9 +68,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "frogger.html": {
