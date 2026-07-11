@@ -42,7 +42,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site 2026-05-30 22:39",
+    "name": "good-herobrine-776.github.io",
     "versionFirst": "6.1.12",
     "siteFonts": [
       {
@@ -59,8 +59,8 @@
     "uniqCompNum": 25,
     "versionPublish": "6.1.12",
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "j3huzei2t6",
+    "favicon": "@PROJECT_PATH@/assets/images/prof-495x474-128x123-128x123.png",
+    "mbrsiteDomain": "300doeqg2h",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
